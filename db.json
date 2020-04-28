@@ -8,7 +8,13 @@
           "title": "Impressum",
           "url": "/impressum",
           "linkTitle": "Zur Impressum"
-        }
+      },
+      {
+        "id": 2,
+        "title": "Datenschutz",
+        "url": "/datenschutz",
+        "linkTitle": "Zur Datenschutz"
+      }
       ]
     }
   ]
