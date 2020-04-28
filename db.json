@@ -1,0 +1,10 @@
+{
+  "footerNavigation": [
+    {
+      "id": 1,
+      "title": "Impressum",
+      "url": "/impressum",
+      "linkTitle": "Zur Impressum"
+    }
+  ]
+}
