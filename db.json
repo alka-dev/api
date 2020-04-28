@@ -1,10 +1,13 @@
 {
-  "footerNavigation": [
-    {
-      "id": 1,
-      "title": "Impressum",
-      "url": "/impressum",
-      "linkTitle": "Zur Impressum"
-    }
+  "pages": [
+    "id": 1,
+    "footerNavigation": [
+      {
+        "id": 1,
+        "title": "Impressum",
+        "url": "/impressum",
+        "linkTitle": "Zur Impressum"
+      }
+    ]
   ]
 }
